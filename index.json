@@ -1,0 +1,152 @@
+{
+  "pokemon1": {
+    "Name": "Pika-Chu",
+    "HP": 45,
+    "Attack": 80,
+    "Defense": 50,
+    "Special-Atk.": 75,
+    "Special-Def.": 60,
+    "Speed": 120,
+    "Image": "https://vignette2.wikia.nocookie.net/sonicpokemon/images/7/77/Pikachu.png/revision/latest?cb=20120603213349"
+  },
+  "pokemon2": {
+    "Name": "Abra",
+    "HP": 25,
+    "Attack": 20,
+    "Defense": 15,
+    "Special-Atk.": 105,
+    "Special-Def.": 55,
+    "Speed": 90,
+    "Image": "http://img3.wikia.nocookie.net/__cb20131224023304/pokemon/images/0/02/063Abra_AG_anime.png"
+  },
+  "pokemon3": {
+    "Name": "Snorlax",
+    "HP": 160,
+    "Attack": 110,
+    "Defense": 65,
+    "Special-Atk.": 65,
+    "Special-Def.": 110,
+    "Speed": 30,
+    "Image": "https://static.wikia.nocookie.net/pokemon/images/f/fb/143Snorlax.png/revision/latest/scale-to-width-down/1000?cb=20200731165355"
+  },
+  "pokemon4": {
+    "Name": "Snorunt",
+    "HP": 50,
+    "Attack": 50,
+    "Defense": 50,
+    "Special-Atk.": 50,
+    "Special-Def.": 50,
+    "Speed": 530,
+    "Image": "https://static.wikia.nocookie.net/pokemon/images/6/6b/361Snorunt.png/revision/latest?cb=20140329024154"
+  },
+  "pokemon5": {
+    "Name": "Charizard",
+    "HP": 78,
+    "Attack": 84,
+    "Defense": 78,
+    "Special-Atk.": 109,
+    "Special-Def.": 85,
+    "Speed": 100,
+    "Image": "https://static.wikia.nocookie.net/pokemon/images/7/7e/006Charizard.png/revision/latest/scale-to-width-down/1000?cb=20200731134217"
+  },
+  "pokemon6": {
+    "Name": "Meowth",
+    "HP": 40,
+    "Attack": 45,
+    "Defense": 35,
+    "Special-Atk.": 40,
+    "Special-Def.": 40,
+    "Speed": 90,
+    "Image": "https://static.wikia.nocookie.net/pokemon/images/d/d6/052Meowth.png/revision/latest?cb=20140328195855"
+  },
+  "pokemon7": {
+    "Name": "Wishiwashi",
+    "HP": 45,
+    "Attack": 20,
+    "Defense": 20,
+    "Special-Atk.": 25,
+    "Special-Def.": 25,
+    "Speed": 40,
+    "Image": "https://static.wikia.nocookie.net/pokemon/images/7/75/746Wishiwashi.png/revision/latest?cb=20161221214915"
+  },
+  "pokemon8": {
+    "Name": "Eternatus",
+    "HP": 255,
+    "Attack": 115,
+    "Defense": 250,
+    "Special-Atk.": 125,
+    "Special-Def.": 250,
+    "Speed": 130,
+    "Image": "https://static.wikia.nocookie.net/pokemon/images/6/62/890Eternatus.png/revision/latest?cb=20200206225940"
+  },
+  "pokemon9": {
+    "Name": "Shedinja",
+    "HP": 1,
+    "Attack": 90,
+    "Defense": 45,
+    "Special-Atk.": 30,
+    "Special-Def.": 30,
+    "Speed": 40,
+    "Image": "https://static.wikia.nocookie.net/pokemon/images/5/59/292Shedinja.png/revision/latest?cb=20140329021900"
+  },
+  "pokemon10": {
+    "Name": "Blissey",
+    "HP": 255,
+    "Attack": 10,
+    "Defense": 10,
+    "Special-Atk.": 75,
+    "Special-Def.": 135,
+    "Speed": 55,
+    "Image": "https://static.wikia.nocookie.net/pokemon/images/5/56/242Blissey.png/revision/latest?cb=20140329015702"
+  },
+  "pokemon11": {
+    "Name": "Mewtwo",
+    "HP": 106,
+    "Attack": 190,
+    "Defense": 100,
+    "Special-Atk.": 154,
+    "Special-Def.": 100,
+    "Speed": 130,
+    "Image": "https://static.wikia.nocookie.net/pokemon/images/7/78/150Mewtwo.png/revision/latest?cb=20140328211204"
+  },
+  "pokemon12": {
+    "Name": "Shuckle",
+    "HP": 20,
+    "Attack": 10,
+    "Defense": 230,
+    "Special-Atk.": 10,
+    "Special-Def.": 130,
+    "Speed": 5,
+    "Image": "https://static.wikia.nocookie.net/pokemon/images/c/c7/213Shuckle.png/revision/latest?cb=20140329014705"
+  },
+  "pokemon13": {
+    "Name": "Charmander",
+    "HP": 39,
+    "Attack": 52,
+    "Defense": 43,
+    "Special-Atk.": 60,
+    "Special-Def.": 50,
+    "Speed": 65,
+    "Image": "https://static.wikia.nocookie.net/pokemon/images/7/73/004Charmander.png/revision/latest/scale-to-width-down/1000?cb=20200620223744"
+  },
+  "pokemon14": {
+    "Name": "Absol",
+    "HP": 65,
+    "Attack": 130,
+    "Defense": 60,
+    "Special-Atk.": 75,
+    "Special-Def.": 60,
+    "Speed": 75,
+    "Image": "https://static.wikia.nocookie.net/pokemon/images/0/00/359Absol.png/revision/latest?cb=20140329024153"
+  },
+  "pokemon15": {
+    "Name": "Squirtle",
+    "HP": 44,
+    "Attack": 48,
+    "Defense": 65,
+    "Special-Atk.": 50,
+    "Special-Def.": 64,
+    "Speed": 42,
+    "Image": "https://static.wikia.nocookie.net/pokemon/images/3/39/007Squirtle.png/revision/latest/scale-to-width-down/1000?cb=20140329015702"
+  }
+}
